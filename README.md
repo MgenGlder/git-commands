@@ -18,3 +18,7 @@ Print the log with the patches (the updated code files)
 Show the difference between two commits
 
 `git diff <commit A> <commit B>`
+
+Pop a stash at second index
+
+`git stash pop@{2}`
