@@ -1,5 +1,6 @@
 ### Git Commands I find Useful
 Return the symantic ame of the current branch
+
 `git rev-parse --abbrev-ref HEAD`
 
 Access the reflog
